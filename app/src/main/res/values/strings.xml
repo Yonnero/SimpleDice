@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SimpleDice</string>
+    <string name="app_name">Simple Dice</string>
+    <string name="roll">Roll the Dice!  </string>
 </resources>
